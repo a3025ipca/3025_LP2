@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\GestaoDeGabinete\GestaoDeGabinete\bin\Debug\GestaoDeGabinete.exe.config
+C:\Users\danie\source\repos\GestaoDeGabinete\GestaoDeGabinete\bin\Debug\GestaoDeGabinete.exe
+C:\Users\danie\source\repos\GestaoDeGabinete\GestaoDeGabinete\bin\Debug\GestaoDeGabinete.pdb
+C:\Users\danie\source\repos\GestaoDeGabinete\GestaoDeGabinete\obj\Debug\GestaoDeGabinete.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\GestaoDeGabinete\GestaoDeGabinete\obj\Debug\GestaoDeGabinete.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\GestaoDeGabinete\GestaoDeGabinete\obj\Debug\GestaoDeGabinete.exe
+C:\Users\danie\source\repos\GestaoDeGabinete\GestaoDeGabinete\obj\Debug\GestaoDeGabinete.pdb
